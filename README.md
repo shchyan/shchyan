@@ -1,12 +1,10 @@
 # Shuaichen Yan
 
-## Self-Introduction
++ **Ph.D. Student** @ Department of Urban Planning and Design, The University of Hong Kong (HKU)
++ **M.Sc.** in Urban Planning and Design, Peking University (PKU)
++ **B.Sc.** in Geographic Information Science, Wuhan University (WHU)
 
-📍 **Ph.D. Student** @ Department of Urban Planning and Design, The University of Hong Kong (HKU)
-🎓 **M.Sc.** in Urban Planning and Design, Peking University (PKU)
-🎓 **B.Sc.** in Geographic Information Science, Wuhan University (WHU)
-
-### 🔬 Research Interests
+### Research Interests
 
 **Urban Systems Modeling** | **Urban Airspace** | **3D City Analysis** | **Cartography** | **GeoAI**
 
